@@ -14,5 +14,7 @@ table
 {
   background-color:silver;
   border-style: dotted;
+  border: 5;
+  cellspacing: 10;
 
 }
